@@ -1,0 +1,14 @@
+d:\Documentos\BaltaDotNet\Calculator\bin\Debug\net8.0\Calculator.exe
+d:\Documentos\BaltaDotNet\Calculator\bin\Debug\net8.0\Calculator.deps.json
+d:\Documentos\BaltaDotNet\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+d:\Documentos\BaltaDotNet\Calculator\bin\Debug\net8.0\Calculator.dll
+d:\Documentos\BaltaDotNet\Calculator\bin\Debug\net8.0\Calculator.pdb
+d:\Documentos\BaltaDotNet\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+d:\Documentos\BaltaDotNet\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+d:\Documentos\BaltaDotNet\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+d:\Documentos\BaltaDotNet\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+d:\Documentos\BaltaDotNet\Calculator\obj\Debug\net8.0\Calculator.dll
+d:\Documentos\BaltaDotNet\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+d:\Documentos\BaltaDotNet\Calculator\obj\Debug\net8.0\Calculator.pdb
+d:\Documentos\BaltaDotNet\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+d:\Documentos\BaltaDotNet\Calculator\obj\Debug\net8.0\ref\Calculator.dll
