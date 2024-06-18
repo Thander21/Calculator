@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-Menu();
+﻿Menu();
 
 static void Menu(){
     Console.Clear();
